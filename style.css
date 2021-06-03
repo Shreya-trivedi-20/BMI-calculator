@@ -1,0 +1,28 @@
+body {
+  font-family: "Bebas Neue", cursive;
+  background-color:dimgrey;
+  color: #eac8af;
+  text-align: center;
+  border:2px solid black;
+  margin:auto;
+}
+
+h1 {
+  color:dodgerblue;
+}
+
+input {
+  color:crimson;
+  font-size: 32px;
+}
+
+.btn,
+.btn:hover {
+  background-color:coral;
+  color: #1b2021;
+  border-color: #1b2021;
+  font-size: 3em;
+  margin:auto;
+
+
+}
